@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sublime on Randy Ridenour</title>
+    <link>http://randyridenour.net/tags/sublime/</link>
+    <description>Recent content in Sublime on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Thu, 06 Aug 2015 13:08:36 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/tags/sublime/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blogging with Sublime Text</title>
+      <link>http://randyridenour.net/2015/08/06/blogging-with-sublime-text/</link>
+      <pubDate>Thu, 06 Aug 2015 13:08:36 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/08/06/blogging-with-sublime-text/</guid>
+      <description>Testing blogging with the Sublime Text Jekyll package — not bad, so far. It&amp;rsquo;s really hard to beat Emacs for Markdown editing, though.</description>
+    </item>
+    
+    <item>
+      <title>Sublime Text Build for MultiMarkdown</title>
+      <link>http://randyridenour.net/2015/01/13/sublime-text-build-for-multimarkdown/</link>
+      <pubDate>Tue, 13 Jan 2015 17:11:00 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/01/13/sublime-text-build-for-multimarkdown/</guid>
+      <description>I added some variants to Brett Terpstra&amp;rsquo;s Marked.sublime-build file, which is part of the Marked Bonus Pack. It adds options for building tex, opml, and odf files. To build a tex file, open the command palette and search for &amp;ldquo;MMD to LaTeX.&amp;rdquo; The file is saved as &amp;ldquo;Marked.sublime-build&amp;rdquo; in /Users/YourUserName/Library/Application Support/Sublime Text 3/Packages. Here is the complete build file:
+{ &amp;quot;cmd&amp;quot;: [&amp;quot;open&amp;quot;,&amp;quot;-a&amp;quot;,&amp;quot;/Applications/Marked.app&amp;quot;,&amp;quot;$file&amp;quot;], &amp;quot;selector&amp;quot;: &amp;quot;text.html.markdown&amp;quot;, &amp;quot;variants&amp;quot;: [ { &amp;quot;cmd&amp;quot;: [&amp;quot;mmd2tex&amp;quot;, &amp;quot;$file&amp;quot;], &amp;quot;path&amp;quot;: &amp;quot;/usr/local/bin&amp;quot;, &amp;quot;name&amp;quot;: &amp;quot;MMD to LaTeX&amp;quot; }, { &amp;quot;cmd&amp;quot;: [&amp;quot;mmd2odf&amp;quot;, &amp;quot;$file&amp;quot;], &amp;quot;path&amp;quot;: &amp;quot;/usr/local/bin&amp;quot;, &amp;quot;name&amp;quot;: &amp;quot;MMD to ODF&amp;quot; }, { &amp;quot;cmd&amp;quot;: [&amp;quot;mmd2opml&amp;quot;, &amp;quot;$file&amp;quot;], &amp;quot;path&amp;quot;: &amp;quot;/usr/local/bin&amp;quot;, &amp;quot;name&amp;quot;: &amp;quot;MMD to OPML&amp;quot; } ] }  Happy New Year!</description>
+    </item>
+    
+  </channel>
+</rss>

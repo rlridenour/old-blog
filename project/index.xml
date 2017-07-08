@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Randy Ridenour</title>
+    <link>http://randyridenour.net/project/</link>
+    <description>Recent content in Projects on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Fri, 30 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Abandoning Jubilee — The Structural Causes of Poverty</title>
+      <link>http://randyridenour.net/project/jubilee-poverty/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/project/jubilee-poverty/</guid>
+      <description>The Jubilee law of Leviticus 25 is a radical economic plan which requires a leveling of real assets every fifty years, thus providing an economic structure that regularly dissolves large economic inequalities. It is impossible to follow the letter of the Jubilee law in a modern non-agrarian economy, but this should not free us from the responsibility of adhering to the spirit of the law. A survey of social structures in the United States reveals an economy that is contrary to the spirit of Jubilee, one that not only makes inequalities possible, but makes escaping from poverty nearly impossible.</description>
+    </item>
+    
+  </channel>
+</rss>

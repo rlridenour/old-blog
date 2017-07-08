@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mind on Randy Ridenour</title>
+    <link>http://randyridenour.net/tags/mind/</link>
+    <description>Recent content in Mind on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Tue, 28 Oct 2008 16:16:52 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/tags/mind/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Consciousness</title>
+      <link>http://randyridenour.net/2008/10/28/consciousness/</link>
+      <pubDate>Tue, 28 Oct 2008 16:16:52 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2008/10/28/consciousness/</guid>
+      <description>In Philosophy of Mind today, I claimed that the ability to respond to the environment meant that an organism was at least minimally conscious. Michael Novotny then asked if that entailed that certain mechanisms were conscious. For example, a trap door opens when a certain weight is place on it. It seems to be responding to the environment, so does that mean that it is conscious? If not, then what&#39;s wrong with my claim about the condition for minimal consciousness?</description>
+    </item>
+    
+  </channel>
+</rss>

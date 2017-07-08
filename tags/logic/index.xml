@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logic on Randy Ridenour</title>
+    <link>http://randyridenour.net/tags/logic/</link>
+    <description>Recent content in Logic on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Mon, 11 Apr 2016 15:16:22 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/tags/logic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Venn Diagrams with LaTeX and TikZ</title>
+      <link>http://randyridenour.net/2016/04/11/venn-diagrams-with-latex-and-tikz/</link>
+      <pubDate>Mon, 11 Apr 2016 15:16:22 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2016/04/11/venn-diagrams-with-latex-and-tikz/</guid>
+      <description>I spent the weekend working on Venn diagrams in LaTeX using TikZ to use when teaching categorical logic. I thought it was a much better use of my time than mowing the lawn, and one never knows when a good Venn diagram will be needed.
+The Initial Diagram First, add the following to the preamble:
+\usepackage{tikz} \usetikzlibrary{shapes,backgrounds}  The next step is to define the three circles in the body of the document.</description>
+    </item>
+    
+  </channel>
+</rss>

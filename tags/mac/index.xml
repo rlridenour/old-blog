@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mac on Randy Ridenour</title>
+    <link>http://randyridenour.net/tags/mac/</link>
+    <description>Recent content in Mac on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Thu, 06 Aug 2015 12:56:39 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Family Sharing for Mac Apps</title>
+      <link>http://randyridenour.net/2015/08/06/family-sharing-for-mac-apps/</link>
+      <pubDate>Thu, 06 Aug 2015 12:56:39 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/08/06/family-sharing-for-mac-apps/</guid>
+      <description>My wife and I were sharing the same Apple ID, mine, for the app store, iTunes, etc. With the advent of Apple Music, I decided that a move to family sharing would be best, I didn&amp;rsquo;t think she&amp;rsquo;d fully appreciate the recommendations of playlists filled with psychedelic rock from the 60&amp;rsquo;s.
+A couple of weeks later, I finally convinced my wife to start using a password manager, and having already purchased 1Password from the App Store, I decided to take advantage of family sharing.</description>
+    </item>
+    
+    <item>
+      <title>Reinstalling Apps from Mac App Store</title>
+      <link>http://randyridenour.net/2015/01/13/reinstalling-apps-from-mac-app-store/</link>
+      <pubDate>Tue, 13 Jan 2015 17:12:18 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/01/13/reinstalling-apps-from-mac-app-store/</guid>
+      <description>I was having some trouble with BBEdit on one of my machines, so I decided to delete and reinstall the application. That&amp;rsquo;s not very difficult in ordinary circumstances, but since I bought from the App Store, it should have been even easier. There should be no need to enter any license information, just a click and install.
+First, I deleted the app. I deleted BBEdit from the applications folder. Somehow, it was still in Launchpad.</description>
+    </item>
+    
+    <item>
+      <title>Reinstalling Apps from the App Store</title>
+      <link>http://randyridenour.net/2011/11/23/reinstalling-apps-from-the-app-store/</link>
+      <pubDate>Wed, 23 Nov 2011 06:28:49 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2011/11/23/reinstalling-apps-from-the-app-store/</guid>
+      <description>I was having some trouble with BBEdit on one of my machines, so I decided to delete and reinstall the application. That’s not very difficult in ordinary circumstances, but since I bought from the App Store, it should have been even easier. There should be no need to enter any license information, just a click and install.
+First, I deleted the app. I deleted BBEdit from the applications folder. Somehow, it was still in Launchpad.</description>
+    </item>
+    
+    <item>
+      <title>Starting Young</title>
+      <link>http://randyridenour.net/2009/12/29/minimalmac-curious-via-thenixer-what-we/</link>
+      <pubDate>Tue, 29 Dec 2009 13:42:17 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2009/12/29/minimalmac-curious-via-thenixer-what-we/</guid>
+      <description>Here&amp;rsquo;s a mac geek got a much earlier start than I did.</description>
+    </item>
+    
+  </channel>
+</rss>

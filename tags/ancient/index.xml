@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ancient on Randy Ridenour</title>
+    <link>http://randyridenour.net/tags/ancient/</link>
+    <description>Recent content in Ancient on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Mon, 26 Sep 2016 08:01:43 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/tags/ancient/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ancient Philosophy Study Guide</title>
+      <link>http://randyridenour.net/2016/09/26/ancient-philosophy-study-guide/</link>
+      <pubDate>Mon, 26 Sep 2016 08:01:43 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2016/09/26/ancient-philosophy-study-guide/</guid>
+      <description>What is the reason for separating Plato&amp;rsquo;s dialogues into Socratic (early) and Platonic (middle) dialogues? Why is Socrates’ method primarily negative? Is there anything that Socrates does (at least implicitly) claim to know? Explain why the Meno is considered a transitional dialogue. Explain Meno&amp;rsquo;s Paradox. How does Plato respond? Although Socrates claims ignorance, he seems to hold some surprising philosophical positions. Explain. Why did Socrates not plead for his life?</description>
+    </item>
+    
+  </channel>
+</rss>

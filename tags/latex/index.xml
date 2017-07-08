@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latex on Randy Ridenour</title>
+    <link>http://randyridenour.net/tags/latex/</link>
+    <description>Recent content in Latex on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Mon, 11 Apr 2016 15:16:22 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/tags/latex/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Venn Diagrams with LaTeX and TikZ</title>
+      <link>http://randyridenour.net/2016/04/11/venn-diagrams-with-latex-and-tikz/</link>
+      <pubDate>Mon, 11 Apr 2016 15:16:22 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2016/04/11/venn-diagrams-with-latex-and-tikz/</guid>
+      <description>I spent the weekend working on Venn diagrams in LaTeX using TikZ to use when teaching categorical logic. I thought it was a much better use of my time than mowing the lawn, and one never knows when a good Venn diagram will be needed.
+The Initial Diagram First, add the following to the preamble:
+\usepackage{tikz} \usetikzlibrary{shapes,backgrounds}  The next step is to define the three circles in the body of the document.</description>
+    </item>
+    
+    <item>
+      <title>LaTeX-Skim Sync</title>
+      <link>http://randyridenour.net/2015/11/15/latexskim-sync/</link>
+      <pubDate>Sun, 15 Nov 2015 17:18:41 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/11/15/latexskim-sync/</guid>
+      <description>I recently started using John Wiegley&amp;rsquo;s use-package for my Emacs init files. For Auctex, I used
+(use-package tex :ensure auctex)  and everything worked except for sync with Skim on OS X. C-c v would not launch the Skim, even though I was confident that the Skim was set to be the default viewer. Instead, no viewer would launch, and I&amp;rsquo;d see &amp;ldquo;View command: dvi2tty -q -w 132&amp;rdquo; in the minibuffer.</description>
+    </item>
+    
+  </channel>
+</rss>

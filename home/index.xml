@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Randy Ridenour</title>
+    <link>http://randyridenour.net/home/</link>
+    <description>Recent content in Homes on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://randyridenour.net/home/about/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/home/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://randyridenour.net/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://randyridenour.net/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://randyridenour.net/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://randyridenour.net/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/home/teaching/</guid>
+      <description>I teach the following courses at Oklahoma Baptist University
+ PHIL 1043: Introduction to Philosophy PHIL 1502: Critical Thinking PHIL 2143: History of Modern Philosophy PHIL 2343: History of Ancient Philosophy PHIL 2353: History of Medieval Philosophy PHIL 2504: History of American Philosophy PHIL 3313: Political Philosophy PHIL 3703: Aesthetics PHIL 4563: Philosophy of Language PHIL 4693: Metaphysics PHIL 4663: Existentialism  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://randyridenour.net/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

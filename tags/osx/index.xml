@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Osx on Randy Ridenour</title>
+    <link>http://randyridenour.net/tags/osx/</link>
+    <description>Recent content in Osx on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Tue, 23 Jun 2015 21:09:54 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/tags/osx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emacs on OS X</title>
+      <link>http://randyridenour.net/2015/06/23/emacs-on-os-x/</link>
+      <pubDate>Tue, 23 Jun 2015 21:09:54 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/06/23/emacs-on-os-x/</guid>
+      <description>Homebrew I install Emacs with Homebrew. After installing Homebrew, just type the following in Terminal:
+brew install emacs --cocoa
+This makes upgrading very easy, brew upgrade updates everything that you&amp;rsquo;ve installed in Homebrew. It also keeps things nicely organized in /usr/local/Cellar/ and puts symbolic links in /usr/local/bin/. After installation, you have two options for getting Emacs into your Applications directory. First, Homebrew can put a link there with brew linkapps Emacs.</description>
+    </item>
+    
+    <item>
+      <title>Fixed Open in Chrome Alfred Workflow</title>
+      <link>http://randyridenour.net/2015/06/18/fixed-open-in-chrome-alfred-workflow/</link>
+      <pubDate>Thu, 18 Jun 2015 02:31:39 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/06/18/fixed-open-in-chrome-alfred-workflow/</guid>
+      <description>I use Andrew Curtis-Black&amp;rsquo;s &amp;ldquo;Open in Chrome&amp;rdquo; Alfred workflow whenever I need to view a page that uses Flash. After installing Parallels to run Windows on my Mac 1, the workflow began misbehaving. It would start Parallels, then open Chrome in Windows, which is certainly not what I wanted to happen.
+I took a hint from this script and fixed the problem today. Search for the applescript &amp;ldquo;open_in_chrome.scpt&amp;rdquo;, then change the line</description>
+    </item>
+    
+  </channel>
+</rss>

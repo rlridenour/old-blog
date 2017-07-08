@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Utilities on Randy Ridenour</title>
+    <link>http://randyridenour.net/tags/utilities/</link>
+    <description>Recent content in Utilities on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Thu, 18 Jun 2015 02:31:39 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/tags/utilities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fixed Open in Chrome Alfred Workflow</title>
+      <link>http://randyridenour.net/2015/06/18/fixed-open-in-chrome-alfred-workflow/</link>
+      <pubDate>Thu, 18 Jun 2015 02:31:39 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/06/18/fixed-open-in-chrome-alfred-workflow/</guid>
+      <description>I use Andrew Curtis-Black&amp;rsquo;s &amp;ldquo;Open in Chrome&amp;rdquo; Alfred workflow whenever I need to view a page that uses Flash. After installing Parallels to run Windows on my Mac 1, the workflow began misbehaving. It would start Parallels, then open Chrome in Windows, which is certainly not what I wanted to happen.
+I took a hint from this script and fixed the problem today. Search for the applescript &amp;ldquo;open_in_chrome.scpt&amp;rdquo;, then change the line</description>
+    </item>
+    
+    <item>
+      <title>Academic Reference Software</title>
+      <link>http://randyridenour.net/2008/10/24/academic-reference-software/</link>
+      <pubDate>Fri, 24 Oct 2008 07:29:02 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2008/10/24/academic-reference-software/</guid>
+      <description>If you have writing projects that require footnotes, endnotes, bibliographies, or other kinds of references, you should consider getting some kind of reference manager software. Short papers with a few references are easy enough to manage with a word processor alone, but significant projects can easily be overwhelming. There is enough pain in academic writing that one does not need the extra suffering caused by having to make sure that every work cited is included in the bibliography, that the entries are all in alphabetical order, and that the notes and bibliography entries are all in the right format.</description>
+    </item>
+    
+  </channel>
+</rss>

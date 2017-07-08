@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mercurial on Randy Ridenour</title>
+    <link>http://randyridenour.net/tags/mercurial/</link>
+    <description>Recent content in Mercurial on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Tue, 11 Aug 2015 21:01:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/tags/mercurial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mercurial HGIgnore File</title>
+      <link>http://randyridenour.net/2015/08/11/mercurial-hgignore-file/</link>
+      <pubDate>Tue, 11 Aug 2015 21:01:27 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/08/11/mercurial-hgignore-file/</guid>
+      <description>I could not figure out why Mercurial was not using my hgignore file. I didn&amp;rsquo;t realize that it needed to be declared in the .hgrc file. Adding
+ignore = ~/.hgignore_global
+to the [ui] section fixed it.
+Thanks goes to we are all robots.</description>
+    </item>
+    
+  </channel>
+</rss>

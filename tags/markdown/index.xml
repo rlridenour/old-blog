@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on Randy Ridenour</title>
+    <link>http://randyridenour.net/tags/markdown/</link>
+    <description>Recent content in Markdown on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Wed, 08 Mar 2017 14:44:04 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emacs Markdown Indentation</title>
+      <link>http://randyridenour.net/2017/03/08/emacs-markdown-indentation/</link>
+      <pubDate>Wed, 08 Mar 2017 14:44:04 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2017/03/08/emacs-markdown-indentation/</guid>
+      <description>Beginning today, for some reason, I could not indent Markdown list items in Emacs. Disabling aggressive-indent-mode fixed the problem.</description>
+    </item>
+    
+    <item>
+      <title>Using Marked with Emacs</title>
+      <link>http://randyridenour.net/2015/09/29/using-marked-with-emacs/</link>
+      <pubDate>Tue, 29 Sep 2015 15:22:12 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/09/29/using-marked-with-emacs/</guid>
+      <description>It&amp;rsquo;s time to revisit a subject I covered in 2014, using Emacs to open a Markdown file in Marked, an excellent Markdown previewer for OS X.1 I have used two different methods of opening files in Marked from Emacs, both of which have respective advantages.
+The first is a function expressly for opening files in Marked. Add the following code to your emacs init file, and then press &amp;ldquo;Control-c m&amp;rdquo; to open the current file in Marked.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metaphysics on Randy Ridenour</title>
+    <link>http://randyridenour.net/tags/metaphysics/</link>
+    <description>Recent content in Metaphysics on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Tue, 20 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/tags/metaphysics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Permanent Impermanence</title>
+      <link>http://randyridenour.net/2015/01/20/permanent-impermanence/</link>
+      <pubDate>Tue, 20 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/01/20/permanent-impermanence/</guid>
+      <description>As I wrote recently, everything in existence is permanently impermanent. Patrick Rhone
+ I detect shades of Heraclitus here.
+Question: is this a paradox? Answer: probably not, unless Rhone is committed to the belief that nothing at all, even impermanence, is permanent. It is a good opportunity to do some analytic philosophy, though.
+What is permanence? Is it a real property, or is it a derivative analyzed in terms of the real properties of an object?</description>
+    </item>
+    
+  </channel>
+</rss>

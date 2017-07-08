@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Church on Randy Ridenour</title>
+    <link>http://randyridenour.net/tags/church/</link>
+    <description>Recent content in Church on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Sat, 29 Aug 2009 22:54:53 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/tags/church/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Habitat</title>
+      <link>http://randyridenour.net/2009/08/29/the-habitat-for-humanity-build-in-norman-im/</link>
+      <pubDate>Sat, 29 Aug 2009 22:54:53 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2009/08/29/the-habitat-for-humanity-build-in-norman-im/</guid>
+      <description>The Habitat for Humanity build in Norman. I&#39;m getting lots of advice from David and Mitch.</description>
+    </item>
+    
+  </channel>
+</rss>

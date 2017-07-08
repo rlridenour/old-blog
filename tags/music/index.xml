@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Randy Ridenour</title>
+    <link>http://randyridenour.net/tags/music/</link>
+    <description>Recent content in Music on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Thu, 22 Sep 2016 10:18:46 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Ballad of Mitch Randall</title>
+      <link>http://randyridenour.net/2016/09/22/the-ballad-of-mitch-randall/</link>
+      <pubDate>Thu, 22 Sep 2016 10:18:46 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2016/09/22/the-ballad-of-mitch-randall/</guid>
+      <description>(Sung to the tune of &amp;ldquo;John Henry&amp;rdquo;)
+When Mitch Randall was a little baby,
+sitting on his father&amp;rsquo;s knee.
+He tied a ribbon on his finger,
+and he held it in the air.
+Said, this bow tie&amp;rsquo;s gonna be the death of me, Lord, Lord
+This bow tie&amp;rsquo;s gonna be the death of me.
+When Mitch Randall was just a little boy,
+his parents noticed that he was an unusual child.</description>
+    </item>
+    
+    <item>
+      <title>Greatest Beatles Songs?</title>
+      <link>http://randyridenour.net/2010/08/27/greatest-beatles-songs/</link>
+      <pubDate>Fri, 27 Aug 2010 00:23:36 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2010/08/27/greatest-beatles-songs/</guid>
+      <description>Rolling Stone&amp;rsquo;s ranking of the top ten Beatles songs.</description>
+    </item>
+    
+    <item>
+      <title>The Monads</title>
+      <link>http://randyridenour.net/2009/10/25/the-monads/</link>
+      <pubDate>Sun, 25 Oct 2009 22:07:00 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2009/10/25/the-monads/</guid>
+      <description>From the &amp;ldquo;Thoughts, Arguments, and Rants&amp;rdquo; blog, here is a link to a band called &amp;ldquo;The Monads&amp;rdquo; and it&amp;rsquo;s reincarnation, &amp;ldquo;The 21st Century Monads.&amp;rdquo; No educated person could resist songs with titles like &amp;ldquo;The Skeptic Song&amp;rdquo; and &amp;ldquo;The Missing Shade of Blues.&amp;rdquo; There&amp;rsquo;s even a song expressing the emotional depths of the academic life: &amp;ldquo;My Paper Was Rejected Again.&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>

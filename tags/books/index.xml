@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Randy Ridenour</title>
+    <link>http://randyridenour.net/tags/books/</link>
+    <description>Recent content in Books on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Tue, 27 Jun 2017 11:24:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fall 2017 Textbooks</title>
+      <link>http://randyridenour.net/2017/06/27/fall-2017-textbooks/</link>
+      <pubDate>Tue, 27 Jun 2017 11:24:00 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2017/06/27/fall-2017-textbooks/</guid>
+      <description>Here are the textbooks for my Fall 2017 courses:
+Introduction to Philosophy Adler, Jonathan E., and Catherine Z. Elgin. 2007. Philosophical Inquiry: Classic and Contemporary Readings. Indianapolis, IN: Hackett Publishing.  Critical Thinking None required to purchase.
+History of Ancient Philosophy Reeve, C. D. C., and Patrick L. Miller. 2006. Introductory Readings in Ancient Greek and Roman Philosophy. Indianapolis, IN: Hackett Pub. Co. Shields, Christopher. 2011. Ancient Philosophy: A Contemporary Introduction.</description>
+    </item>
+    
+    <item>
+      <title>LibriVox</title>
+      <link>http://randyridenour.net/2015/06/12/librivox/</link>
+      <pubDate>Fri, 12 Jun 2015 14:50:37 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/06/12/librivox/</guid>
+      <description>I just found LibriVox, a collection of audiobooks, all public domain works read by volunteers. What is especially cool is that they can be subscribed to, and played by, your preferred podcast app.</description>
+    </item>
+    
+    <item>
+      <title>Textbooks for Spring 2015</title>
+      <link>http://randyridenour.net/2015/01/13/textooks-for-spring-2015/</link>
+      <pubDate>Tue, 13 Jan 2015 12:59:43 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/01/13/textooks-for-spring-2015/</guid>
+      <description>Here are the books for my courses, spring semester, 2015:
+Philosophy 2143, History of Modern Philosophy
+ Ariew, Roger and Watkins, Eric. Modern Philosophy : An Anthology of Primary Sources, 2d edition. Hacket Publishing Co., 2009.  PHIL 2353, History of Medieval Philosophy
+ Walsh, James and Williams, Thomas. Philosophy in the Middle Ages: The Christian, Islamic, and Jewish Traditions. Hacket Publishing Co., 2010.  PHIL 4663, Existentialism
+ Nietzsche, Friedrich.</description>
+    </item>
+    
+  </channel>
+</rss>

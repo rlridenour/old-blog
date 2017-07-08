@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emacs on Randy Ridenour</title>
+    <link>http://randyridenour.net/tags/emacs/</link>
+    <description>Recent content in Emacs on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Wed, 08 Mar 2017 14:44:04 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emacs Markdown Indentation</title>
+      <link>http://randyridenour.net/2017/03/08/emacs-markdown-indentation/</link>
+      <pubDate>Wed, 08 Mar 2017 14:44:04 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2017/03/08/emacs-markdown-indentation/</guid>
+      <description>Beginning today, for some reason, I could not indent Markdown list items in Emacs. Disabling aggressive-indent-mode fixed the problem.</description>
+    </item>
+    
+    <item>
+      <title>Emacs on the iPad</title>
+      <link>http://randyridenour.net/2016/06/23/emacs-on-the-ipad/</link>
+      <pubDate>Thu, 23 Jun 2016 15:19:23 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2016/06/23/emacs-on-the-ipad/</guid>
+      <description>The iPad Pro has more people considering using the iPad for production, not just for entertainment. I have long been jealous of those who could use an iPad for most of their work, especially now, as iPad displays get bigger and nicer. I would love to be able to throw an iPad and keyboard into a small bag and be able to use the same tool for both reading and writing.</description>
+    </item>
+    
+    <item>
+      <title>LaTeX-Skim Sync</title>
+      <link>http://randyridenour.net/2015/11/15/latexskim-sync/</link>
+      <pubDate>Sun, 15 Nov 2015 17:18:41 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/11/15/latexskim-sync/</guid>
+      <description>I recently started using John Wiegley&amp;rsquo;s use-package for my Emacs init files. For Auctex, I used
+(use-package tex :ensure auctex)  and everything worked except for sync with Skim on OS X. C-c v would not launch the Skim, even though I was confident that the Skim was set to be the default viewer. Instead, no viewer would launch, and I&amp;rsquo;d see &amp;ldquo;View command: dvi2tty -q -w 132&amp;rdquo; in the minibuffer.</description>
+    </item>
+    
+    <item>
+      <title>Using Marked with Emacs</title>
+      <link>http://randyridenour.net/2015/09/29/using-marked-with-emacs/</link>
+      <pubDate>Tue, 29 Sep 2015 15:22:12 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/09/29/using-marked-with-emacs/</guid>
+      <description>It&amp;rsquo;s time to revisit a subject I covered in 2014, using Emacs to open a Markdown file in Marked, an excellent Markdown previewer for OS X.1 I have used two different methods of opening files in Marked from Emacs, both of which have respective advantages.
+The first is a function expressly for opening files in Marked. Add the following code to your emacs init file, and then press &amp;ldquo;Control-c m&amp;rdquo; to open the current file in Marked.</description>
+    </item>
+    
+    <item>
+      <title>Open Dired From Shell</title>
+      <link>http://randyridenour.net/2015/07/08/open-dired-from-shell/</link>
+      <pubDate>Wed, 08 Jul 2015 09:47:32 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/07/08/open-dired-from-shell/</guid>
+      <description>I was browsing the interwebs this morning, looking for a way to open a Dired buffer of the current finder window. There is a lot on going the other way, from Emacs to the Finder, but nothing from the Finder to Emacs. I got this from Fortune Datko:
+Add this to your shell rc file (in my case, .zshrc):
+# open a dired window for the current directory dired() { emacsclient -e &amp;quot;(dired \&amp;quot;$PWD\&amp;quot;)&amp;quot; }  Then, assuming that Emacs server is running, type &amp;ldquo;dired&amp;rdquo; in the shell, and a Dired buffer of that directory opens in the current Emacs frame.</description>
+    </item>
+    
+    <item>
+      <title>Emacs on OS X</title>
+      <link>http://randyridenour.net/2015/06/23/emacs-on-os-x/</link>
+      <pubDate>Tue, 23 Jun 2015 21:09:54 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/06/23/emacs-on-os-x/</guid>
+      <description>Homebrew I install Emacs with Homebrew. After installing Homebrew, just type the following in Terminal:
+brew install emacs --cocoa
+This makes upgrading very easy, brew upgrade updates everything that you&amp;rsquo;ve installed in Homebrew. It also keeps things nicely organized in /usr/local/Cellar/ and puts symbolic links in /usr/local/bin/. After installation, you have two options for getting Emacs into your Applications directory. First, Homebrew can put a link there with brew linkapps Emacs.</description>
+    </item>
+    
+    <item>
+      <title>Stringp, Nil Error in Emacs</title>
+      <link>http://randyridenour.net/2015/06/04/stringp-nil-error-in-emacs/</link>
+      <pubDate>Thu, 04 Jun 2015 20:52:54 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/06/04/stringp-nil-error-in-emacs/</guid>
+      <description>This is one of those posts that serve only to remind me of something in the future. My Emacs configuration was working well on one machine. Whenever I opened dired on another machine, though, this error was returned:
+wrong type argument: stringp, nil
+Finally, I remembered that I had required GNU ls in my Emacs settings, and had not installed it on the machine in question. A quick &amp;ldquo;brew install coreutils&amp;rdquo; to install the GNU Command Line Tools with Homebrew did the trick.</description>
+    </item>
+    
+    <item>
+      <title>Back to Emacs Prelude</title>
+      <link>http://randyridenour.net/2015/06/02/back-to-emacs-prelude/</link>
+      <pubDate>Tue, 02 Jun 2015 15:36:28 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/06/02/back-to-emacs-prelude/</guid>
+      <description>As I said a few days ago, I switch my Emacs config files to Kieran Healy&amp;rsquo;s Starter Kit. I really liked the use of Org-mode for the config, and especially the LaTeX and RefTeX configuration. I still like Batsov&amp;rsquo;s Prelude, though, and there were certainly some things that I missed greatly.
+This afternoon, I found Mike McFarland&amp;rsquo;s Emacs configuration online. He uses Prelude with a personal configuration in Org-mode. I have switched back, and brought in much of Kieran&amp;rsquo;s LaTeX configuration.</description>
+    </item>
+    
+    <item>
+      <title>Emacs Starter Kit</title>
+      <link>http://randyridenour.net/2015/05/29/emacs-starter-kit/</link>
+      <pubDate>Fri, 29 May 2015 20:10:01 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/05/29/emacs-starter-kit/</guid>
+      <description>The first week of a break from classes is always a good time for a massive reconfiguration of something tech-related. Last time it was the blog, this time it is Emacs. Since I primarily use Emacs only for LaTeX and Markdown editing, I though I would give Kieran Healy&amp;rsquo;s Emacs Starter Kit for the Social Sciences a try. He has done a masterful job of setting up a great LaTeX editing machine.</description>
+    </item>
+    
+    <item>
+      <title>Emacs Blog Test</title>
+      <link>http://randyridenour.net/2015/01/16/emacs-blog-test/</link>
+      <pubDate>Fri, 16 Jan 2015 16:02:35 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/01/16/emacs-blog-test/</guid>
+      <description>I&amp;rsquo;m testing blogging to the new Jekyll blog from Emacs using the Lisp code from William Denton. It works extremely well. I had to remap the key definitions since C-c j was already used for something else in my configuration. It&amp;rsquo;s bad Emacs form, but I used C-x j instead. So, C-x j n asks for a post title, then creates a file in the drafts folder with the front matter already inserted.</description>
+    </item>
+    
+    <item>
+      <title>Using Marked in Emacs</title>
+      <link>http://randyridenour.net/2015/01/13/using-marked-in-emacs/</link>
+      <pubDate>Tue, 13 Jan 2015 17:08:20 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/01/13/using-marked-in-emacs/</guid>
+      <description>Brett Terpstra makes some great tools, and gives away many of them for nothing. So, I&amp;rsquo;m very happy to return a small amount by paying for Marked, his great tool for previewing Markdown files. The preview auto-updates with each save, and the new version validates external links and provides a wealth of useful statistics about the document.
+I have been calling Marked from Emacs using this function that I found in various places on the internet:</description>
+    </item>
+    
+    <item>
+      <title>Search and Replace with Regular Expressions</title>
+      <link>http://randyridenour.net/2015/01/13/search-and-replace-with-regular-expressions/</link>
+      <pubDate>Tue, 13 Jan 2015 17:06:36 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/01/13/search-and-replace-with-regular-expressions/</guid>
+      <description>I wrote the post that follows below so that I could remember how to use regular expressions for search and replace operations in Sublime Text. Since I just now made some headway in Emacs, I&amp;rsquo;ll repost with some updates, again, primarily as a reference for myself.
+There is no doubt that regular expressions are very powerful. I&amp;rsquo;ve found that the documentation for regular expressions is often as mysterious as the things that the documentation is supposed to explain.</description>
+    </item>
+    
+  </channel>
+</rss>

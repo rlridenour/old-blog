@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Randy Ridenour</title>
+    <link>http://randyridenour.net/tags/hugo/</link>
+    <description>Recent content in Hugo on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Fri, 07 Jul 2017 16:26:51 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test of Automated Deployment</title>
+      <link>http://randyridenour.net/post/2017-07-07-test-of-automated-deployment/</link>
+      <pubDate>Fri, 07 Jul 2017 16:26:51 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/post/2017-07-07-test-of-automated-deployment/</guid>
+      <description>Testing automated deployment with Wercker.</description>
+    </item>
+    
+  </channel>
+</rss>

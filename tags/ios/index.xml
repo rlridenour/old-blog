@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ios on Randy Ridenour</title>
+    <link>http://randyridenour.net/tags/ios/</link>
+    <description>Recent content in Ios on Randy Ridenour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Randy Ridenour</copyright>
+    <lastBuildDate>Wed, 21 Jun 2017 11:05:34 +0000</lastBuildDate>
+    
+	<atom:link href="http://randyridenour.net/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publishing to Jekyll with Editorial on iOS</title>
+      <link>http://randyridenour.net/2017/06/21/jekyll-ios-workflow/</link>
+      <pubDate>Wed, 21 Jun 2017 11:05:34 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2017/06/21/jekyll-ios-workflow/</guid>
+      <description>As a blog platform, Jekyll has a number of positive features:
+ The speed and security of a static site, The convenience and future-proofing of plain text, and most importantly for educators, Free hosting on GitHub.  For me, the one drawback has been finding a convenient way to post using my iPad. There are a number of good Markdown editors for iOS, so writing posts is very easy, but publishing them can be a challenge.</description>
+    </item>
+    
+    <item>
+      <title>iPhone and Bluetooth Audio</title>
+      <link>http://randyridenour.net/2015/07/16/iphone-and-bluetooth-audio/</link>
+      <pubDate>Thu, 16 Jul 2015 12:25:37 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/07/16/iphone-and-bluetooth-audio/</guid>
+      <description>This is one of those &amp;ldquo;post it now, maybe remember it later&amp;rdquo; things:
+I wear a corded, noise-reducing headphone set to listen to podcasts while I mow the yard. Today, I intermittently lost audio, but the podcast kept playing. I unplugged the phones, plugged them back in, and the audio would restart. I tried a a set of corded earbuds with the same result. As I was about to give up, I remembered that I had used a Bluetooth headset earlier in the morning when I walked the dog.</description>
+    </item>
+    
+    <item>
+      <title>Blogging with Jekyll and Working Copy</title>
+      <link>http://randyridenour.net/2015/05/20/working-copy/</link>
+      <pubDate>Wed, 20 May 2015 16:21:15 +0000</pubDate>
+      
+      <guid>http://randyridenour.net/2015/05/20/working-copy/</guid>
+      <description>This blog is hosted on Github, and posting from iOS has been a challenge. I&amp;rsquo;m optimistic that things have become much easier with the release of Working Copy, which is a Git client for iOS that can fetch, merge, and push to both Github and Bitbucket. I cloned my site repository to the iPad with Working Copy, created a new Markdown file, and opened the file in Byword with the iOS document picker.</description>
+    </item>
+    
+  </channel>
+</rss>
